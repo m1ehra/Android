@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lumi" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/lumi_bg</item>
+        <item name="colorPrimary">@color/lumi_primary</item>
+        <item name="colorPrimaryDark">@color/lumi_primary_dark</item>
+        <item name="android:statusBarColor">@color/lumi_primary_dark</item>
+        <item name="android:navigationBarColor">@color/lumi_bg</item>
+    </style>
+</resources>
